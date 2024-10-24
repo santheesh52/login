@@ -13,7 +13,7 @@
   MySQL Database
 
 
-Pages
+<h1>Pages</h1>
 1. Login Page (index.php)
 Users can log in using their email and password.
 If the login is successful, the user is redirected to their profile page.
@@ -29,21 +29,23 @@ Allows the user to update their name and email.
 After saving, changes are reflected on the Profile Page.
 5. Logout (logout.php)
 Ends the user's session and redirects them back to the login page.
-Technologies Used
-Backend: PHP (Server-side scripting)
-Database: MySQL (Relational Database Management)
-Frontend: HTML, CSS
-Session Handling: PHP Sessions for authentication
-Security
-Password Encryption: User passwords are encrypted using PHP's password_hash() function.
-Input Validation: Basic validation is applied to form inputs to ensure data integrity.
-Screenshots
+
+<h1>Technologies Used</h1>
+  Backend: PHP (Server-side scripting)
+  Database: MySQL (Relational Database Management)
+  Frontend: HTML, CSS
+  Session Handling: PHP Sessions for authentication
+  Security
+  Password Encryption: User passwords are encrypted using PHP's password_hash() function.
+  Input Validation: Basic validation is applied to form inputs to ensure data integrity.
+  
+<h1>Screenshots</h1>
 1. Login Page
 
 2. Registration Page
 
 3. Profile Page
 
-License
+<h1>License</h1>
 This project is open-source and available under the MIT License.
  tis change in HTML format
