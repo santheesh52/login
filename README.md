@@ -11,36 +11,38 @@
   <li>Form Validation</li>
 </ul>
 <h1>Prerequisites</h1>
-  XAMPP/WAMP server (for running PHP and MySQL locally)<br>
-  MySQL Database
-
+<ul>
+  <li>XAMPP/WAMP server (for running PHP and MySQL locally)</li>
+  <li>MySQL Database</li>
+</ul>
 
 <h1>Pages</h1>
 1. Login Page (index.php)
 Users can log in using their email and password.
 If the login is successful, the user is redirected to their profile page.
-Failed login attempts will display an error message.<br>
+Failed login attempts will display an error message.<br><br>
 2. Registration Page (register.php)
 Users can create an account by providing their name, email, and password.
-Passwords are securely hashed before being stored in the database.<br>
+Passwords are securely hashed before being stored in the database.<br><br>
 3. Profile Page (profile.php)
 Displays the user's information (name, email).
-Users can navigate to the Edit Profile page to update their details.<br>
+Users can navigate to the Edit Profile page to update their details.<br><br>
 4. Edit Profile Page (edit_profile.php)
 Allows the user to update their name and email.
-After saving, changes are reflected on the Profile Page.<br>
+After saving, changes are reflected on the Profile Page.<br><br>
 5. Logout (logout.php)
 Ends the user's session and redirects them back to the login page.
 
 <h1>Technologies Used</h1>
-  Backend: PHP (Server-side scripting)<br>
-  Database: MySQL (Relational Database Management)<br>
-  Frontend: HTML, CSS<br>
-  Session Handling: PHP Sessions for authentication<br>
-  Security<br>
-  Password Encryption: User passwords are encrypted using PHP's password_hash() function.<br>
-  Input Validation: Basic validation is applied to form inputs to ensure data integrity.<br>
-  
+<ul>
+  <li>Backend: PHP (Server-side scripting)</li>
+  <li>Database: MySQL (Relational Database Management)</li>
+  <li>Frontend: HTML, CSS</li>
+  <li>Session Handling: PHP Sessions for authentication</li>
+  <li>Security</li>
+  <li>Password Encryption: User passwords are encrypted using PHP's password_hash() function.</li>
+  <li>Input Validation: Basic validation is applied to form inputs to ensure data integrity.</li>
+</ul> 
 <h1>Screenshots</h1>
 1. Login Page
 
