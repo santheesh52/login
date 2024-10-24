@@ -45,7 +45,8 @@ Ends the user's session and redirects them back to the login page.
 </ul> 
 <h1>Screenshots</h1>
 1. Login Page
-![Screenshot (50)](https://github.com/user-attachments/assets/ea458638-0a0e-4053-b657-bcbe36bb5b19)
+
+![Screenshot (50)](https://github.com/user-attachments/assets/e768a3c8-e836-4eb1-8f52-d241d4f29dee)
 
 2. Registration Page
    
