@@ -1,13 +1,13 @@
 Login and Registration System with PHP & MySQL
 This project is a simple user authentication system that allows users to register, login, and view/edit their profile. It is built using PHP and MySQL for the backend.
 
-Features
-User Registration
-User Login
-Profile Page (View and Edit Profile)
-Password Encryption (using PHP's password hashing)
-Session-based Authentication
-Form Validation
+<h1>Features</h1>
+  User Registration
+  User Login
+  Profile Page (View and Edit Profile)
+  Password Encryption (using PHP's password hashing)
+  Session-based Authentication
+  Form Validation
 Prerequisites
 XAMPP/WAMP server (for running PHP and MySQL locally)
 MySQL Database
