@@ -3,12 +3,12 @@
 
 <h1>Features</h1>
 <ul>
-  User Registration<br>
-  User Login<br>
-  Profile Page (View and Edit Profile)<br>
-  Password Encryption (using PHP's password hashing)<br>
-  Session-based Authentication<br>
-  Form Validation
+  <li>User Registration</li>
+  <li> User Login</li>
+  <li> Profile Page (View and Edit Profile)</li>
+  <li>Password Encryption (using PHP's password hashing)</li>
+  <li>Session-based Authentication</li>
+  <li>Form Validation</li>
 </ul>
 <h1>Prerequisites</h1>
   XAMPP/WAMP server (for running PHP and MySQL locally)<br>
