@@ -8,7 +8,7 @@
   Password Encryption (using PHP's password hashing)
   Session-based Authentication
   Form Validation
-<h1><Prerequisites/h1>
+<h1>Prerequisites</h1>
   XAMPP/WAMP server (for running PHP and MySQL locally)
   MySQL Database
 
