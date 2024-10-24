@@ -2,12 +2,14 @@
 <p>This project is a simple user authentication system that allows users to register, login, and view/edit their profile. It is built using PHP and MySQL for the backend.</p>
 
 <h1>Features</h1>
+<ul>
   User Registration<br>
   User Login<br>
   Profile Page (View and Edit Profile)<br>
   Password Encryption (using PHP's password hashing)<br>
   Session-based Authentication<br>
   Form Validation
+</ul>
 <h1>Prerequisites</h1>
   XAMPP/WAMP server (for running PHP and MySQL locally)<br>
   MySQL Database
